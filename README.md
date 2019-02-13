@@ -1,16 +1,13 @@
-# testhack
+# Compost, Recycle, or Trash? (CRiT?)
 
-A new Flutter project.
+A new flutter project we have started to implement a brilliant idea for an application that the infamous Daniel Ritchie has come up with during the UC Davis Hackathon. 
 
-## Getting Started
+## The idea
 
-This project is a starting point for a Flutter application.
+The idea is to have an app that where the user can scan a barcode of an item, and determine whether the object belongs in: Compost, Recycle, or the Trash.  The idea involves deveoping a growing database of items bases on people input as to where the object belongs
 
-A few resources to get you started if this is your first Flutter project:
+## Note: This is a work in progress and even though there is a release don't use the code quite yet
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Future Work
+includes applying computer vision to replace barcode scanning (this solves the obvious compost? problem)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
