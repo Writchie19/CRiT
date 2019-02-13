@@ -11,3 +11,5 @@ The idea is to have an app that where the user can scan a barcode of an item, an
 ## Future Work
 includes applying computer vision to replace barcode scanning (this solves the obvious compost? problem)
 
+### P.S.  The mis-spelling is intentional, bonus points if you know why
+
